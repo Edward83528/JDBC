@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Properties;
 
-////JDBC第三種寫法
+//JDBC第三種寫法
 public class JDBC03 {
 
 	public static void main(String[] args) {

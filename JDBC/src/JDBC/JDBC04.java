@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.util.Properties;
 
+//JDBC第四種寫法
 public class JDBC04 {
 
 	public static void main(String[] args) {
